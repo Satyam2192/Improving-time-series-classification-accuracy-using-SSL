@@ -1,4 +1,4 @@
-## Improving time series classification accuracy using self-supervised learning
+## Improving time series classification accuracy using SSL
 
 Improving time series classification accuracy using self-supervised learning, An unsupervised autoencoder model for gesture recognition using PyTorch. This project builds an autoencoder to learn representations of different gestures and evaluates model performance with various visualization and reconstruction error analyses.
 
