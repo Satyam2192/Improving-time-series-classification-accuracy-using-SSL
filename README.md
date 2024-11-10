@@ -1,19 +1,19 @@
-# Gesture Recognition Autoencoder
+## Improving time series classification accuracy using self-supervised learning
 
 Improving time series classification accuracy using self-supervised learning, An unsupervised autoencoder model for gesture recognition using PyTorch. This project builds an autoencoder to learn representations of different gestures and evaluates model performance with various visualization and reconstruction error analyses.
 
-## Project Overview
+### Project Overview
 
 The purpose of this project is to develop and evaluate an autoencoder model to identify unique features of gesture patterns. We use techniques like latent space visualization and reconstruction error analysis to gain insight into how well the model can distinguish between different gestures.
 
-### Key Features
+#### Key Features
 
 - Unsupervised representation learning with an autoencoder
 - Visualization of latent space to analyze clustering of gestures
 - Reconstruction error analysis to identify challenging patterns
 - Gesture-wise performance evaluation (if labels are available)
 
-## Model Architecture
+### Model Architecture
 
 The autoencoder consists of two parts:
 1. **Encoder**: Encodes input data into a compressed latent representation.
@@ -21,9 +21,9 @@ The autoencoder consists of two parts:
 
 The model is built using fully connected layers with ReLU activation functions and Mean Squared Error (MSE) as the reconstruction loss.
 
-## Getting Started
+### Getting Started
 
-### Prerequisites
+#### Prerequisites
 
 - Python 3.x
 - PyTorch
@@ -50,7 +50,7 @@ source .env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Evaluation and Results:
+### Evaluation and Results:
 Test Loss: 0.7409
 Mean Absolute Error (MAE): 0.6684
 Mean Squared Error (MSE): 0.7409
