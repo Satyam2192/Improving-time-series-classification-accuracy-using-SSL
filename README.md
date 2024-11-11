@@ -105,7 +105,7 @@ This repository presents a deep learning approach for time series classification
 
 | Dataset | Pre-Fine-Tune Loss | Pre-Fine-Tune Accuracy | Fine-Tune Loss (Best) | Fine-Tune Accuracy (Best) |
 | --- | --- | --- | --- | --- |
-| HAR   | 0.5284 | 90.36% | **N/A** | **N/A** |
+| HAR   | 0.5284 | 90.36% | **N/A** | 90.36% |
 | Gesture | 8.2883 | 15.83% | 1.0311 | 66.67% |
 
 **Usage**
