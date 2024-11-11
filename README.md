@@ -8,9 +8,10 @@
 2. [Dataset Details](#dataset-details)
 3. [Model Architecture](#model-architecture)
 4. [Training and Evaluation Results](#training-and-evaluation-results)
-5. [Pre-Fine-Tuning vs. Fine-Tuning Comparison](#pre-fine-tuning-vs-fine-tuning-comparison)
-6. [Usage](#usage)
-7. [Dependencies](#dependencies)
+5. [Fine-Tuning on Gesture Dataset](#fine-tuning-on-Gesture-Dataset)
+6. [Pre-Fine-Tuning vs. Fine-Tuning Comparison](#pre-fine-tuning-vs-fine-tuning-comparison)
+7. [Usage](#usage)
+8. [Dependencies](#dependencies)
 
 **Overview**
 ------------
