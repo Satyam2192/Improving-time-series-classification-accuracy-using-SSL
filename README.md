@@ -8,7 +8,7 @@
 2. [Dataset Details](#dataset-details)
 3. [Model Architecture](#model-architecture)
 4. [Training and Evaluation Results](#training-and-evaluation-results)
-5. [Fine-Tuning on Gesture Dataset](#fine-tuning-on-Gesture-Dataset)
+5. [Fine-Tuning on Gesture Dataset](#fine-tuning-on-gesture-dataset3-runs)
 6. [Pre-Fine-Tuning vs. Fine-Tuning Comparison](#pre-fine-tuning-vs-fine-tuning-comparison)
 7. [Usage](#usage)
 8. [Dependencies](#dependencies)
