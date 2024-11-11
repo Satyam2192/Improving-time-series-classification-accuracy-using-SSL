@@ -49,7 +49,7 @@ This repository presents a deep learning approach for time series classification
 ![image](https://github.com/user-attachments/assets/57fcc8b7-9d64-45cd-a4ff-7d38b25ee920)
 ![image](https://github.com/user-attachments/assets/02aac6a0-e9f4-4176-853f-425d7a44a93d)
 
-**Fine-Tuning on Gesture Dataset (3 Runs)**
+**Fine-Tuning-on-Gesture-Dataset(3 Runs)**
 -------------------------------------------
 
 #### **1st Fine-Tuning**
